@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[JonVanhala]]></title>
         <description><![CDATA[JonVanhala]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jonvanhala/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 22:20:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 Nov 2015 22:22:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonvanhala/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Christian Lindberg - Csardas]]></title>
+            <description><![CDATA[<article><h1>Christian Lindberg - Csardas</h1><p>The world's best trombone soloist - Christian Lindberg, with another fantastic pianist - Roland Pöntinen performing Csardas live! Enjoy!</p><img src="https://i.ytimg.com/vi/9GnJ-xL7n3k/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=9GnJ-xL7n3k</link>
+            <guid isPermaLink="false">1e839fd2-dde5-4175-b56c-475bebe30a8f</guid>
+            <pubDate>Wed, 04 Nov 2015 22:21:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pharrell Williams - Happy: Trombone Loop]]></title>
             <description><![CDATA[<article><h1>Pharrell Williams - Happy: Trombone Loop</h1><p>Subscribe for a new video EVERY Saturday!! Purchase on the album "Breakthrough" (http://www.classicaltrombone.com) Looped using Ableton Live 9. Song by Robin Pharrell Williams. Arranged and performed by Christopher Bill http://www.facebook.com/classicaltrombone http://www.classicaltrombone.com</p><img src="https://i.ytimg.com/vi/ZxODzxY6AvI/hqdefault.jpg"></article>]]></description>
