@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ZxODzxY6AvI'
 title: 'Pharrell Williams - Happy: Trombone Loop'
-datePublished: '2015-11-04T22:18:22.140Z'
-dateModified: '2015-11-04T22:17:38.415Z'
+datePublished: '2015-12-18T03:55:55.033Z'
+dateModified: '2015-11-04T22:18:22.140Z'
 sourcePath: _posts/2015-11-04-pharrell-williams-happy-trombone-loop.md
 published: true
 inFeed: true
