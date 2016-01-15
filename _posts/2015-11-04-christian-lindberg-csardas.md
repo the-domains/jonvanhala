@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=9GnJ-xL7n3k'
 title: Christian Lindberg - Csardas
-datePublished: '2015-11-04T22:21:52.164Z'
-dateModified: '2015-11-04T22:21:35.733Z'
+datePublished: '2016-01-15T04:25:14.685Z'
+dateModified: '2015-11-04T22:21:52.164Z'
 sourcePath: _posts/2015-11-04-christian-lindberg-csardas.md
 published: true
 inFeed: true
